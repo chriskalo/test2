@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: yellow;
+  text-align: center;
+}
+
+div {
+  margin-top: 5%;
+  background-color: blue;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+}
+
+@media (max-width: 1028px) {
+  div {
+    margin-top: 20%;
+  }
+}
