@@ -4,3 +4,9 @@ body {
   text-align:center;
 
 }
+
+img {
+  margin-top: 25vh;
+  width: 80vh;
+  height: 50vh;
+}
